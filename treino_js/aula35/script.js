@@ -57,8 +57,8 @@ paulo.nome = 'Paulo Afonso'
 // console.log('Saldo:', leticia.saldo);
 // console.log(leticia.nome, leticia.idade())
 paulo.extrato()
-paulo.pagamento()
-paulo.sacar(500)
-paulo.sacar(800)
-paulo.extrato()
+// paulo.pagamento()
+// paulo.sacar(500)
+// paulo.sacar(800)
+// paulo.extrato()
 
